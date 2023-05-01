@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Tecnologías
+
+## Proyectos
+...
 <!--
 **jcarlosab/jcarlosab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
