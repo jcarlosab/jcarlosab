@@ -1,9 +1,26 @@
 ### Hi there 👋
 
 ## Tecnologías
+```mermaid
+graph TD;
+    Habilidades-->Java;
+    Habilidades-->JavaScript;
+    Habilidades-->Python;
+    Habilidades-->Html
+    Habilidades-->CSS
+    Habilidades-->jQuery 
+```
 
-## Proyectos
-...
+```mermaid
+graph TD;
+    CMS-->Magnolia
+    Magnolia-->Freemarker
+    Magnolia-->Java
+    CMS-->OracleWebCenter
+    OracleWebCenter-->Java
+    OracleWebCenter-->Groovy
+    OracleWebCenter-->jsp 
+```
 <!--
 **jcarlosab/jcarlosab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
