@@ -1,26 +1,19 @@
-### Hi there 👋
+### Hola, todos 👋
 
-## Tecnologías
-```mermaid
-graph TD;
-    Habilidades-->Java;
-    Habilidades-->JavaScript;
-    Habilidades-->Python;
-    Habilidades-->Html
-    Habilidades-->CSS
-    Habilidades-->jQuery 
-```
+## Tecnologias
 
-```mermaid
-graph TD;
-    CMS-->Magnolia
-    Magnolia-->Freemarker
-    Magnolia-->Java
-    CMS-->OracleWebCenter
-    OracleWebCenter-->Java
-    OracleWebCenter-->Groovy
-    OracleWebCenter-->jsp 
-```
+| Java  | JavaScript | Python | Html  |  Git  |  CSS  |
+| :---: | :--------: | :----: | :---: | :---: | :---: |
+
+| Magnolia | Freemarker | OracleWebCenter | jsp  |  Groovy  |
+| :---: | :--------: | :----: | :---: | :---: |
+
+## Actualmente
+
+- Estudiando Python
+- Aprendiendo sobre IA
+- Trabajando con Magnolia
+
 <!--
 **jcarlosab/jcarlosab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
