@@ -1,6 +1,6 @@
 ### Hola, todos 👋
 
-## Tecnologias
+## Tecnologías
 
 | Java  | JavaScript | Python | Html  |  Git  |  CSS  |
 | :---: | :--------: | :----: | :---: | :---: | :---: |
