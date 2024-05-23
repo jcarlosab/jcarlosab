@@ -2,17 +2,12 @@
 
 ## Tecnologías
 
-| Java  | JavaScript | Python | Html  |  Git  |  CSS  |
+| Java  | Python | React | JavaScript  |  Html  |  CSS  |
 | :---: | :--------: | :----: | :---: | :---: | :---: |
 
-| Magnolia | Freemarker | OracleWebCenter | jsp  |  Groovy  |
-| :---: | :--------: | :----: | :---: | :---: |
+| Magnolia | OracleWebCenter |
+| :---: | :--------: |
 
-## Actualmente
-
-- Estudiando Python
-- Aprendiendo sobre IA
-- Trabajando con Magnolia
 
 <!--
 **jcarlosab/jcarlosab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
