@@ -1,25 +1,25 @@
-### Hola, todos 👋
+# 👋 Mi espacio GitHub
 
-## Tecnologías
+Soy Jose Carlos, desarrollador full stack con experiencia en **Magnolia CMS**, **Java**, **React** y **JavaScript moderno**.
 
-| Java  | Python | React | JavaScript  |  Html  |  CSS  |
-| :---: | :--------: | :----: | :---: | :---: | :---: |
+## 🚀 Proyectos principales
 
-| Magnolia | OracleWebCenter |
-| :---: | :--------: |
+- **🃏 Task Points App** — Herramienta de estimación de tareas (frontend + backend con WebSockets) --- en desarrollo
+- **💸 Expenses App** — Gestor de gastos personales en React
+- **🕹️ JS Games** — Juegos pequeños como Pong, Memory o Hanoi usando ECMAScript 6
+- **📦 Bartop** — Documentación de una recreativa arcade hecha a mano
+- - **🛸 Unity Game (en desarrollo)** — Proyecto de videojuego 2D estilo *galaga*
 
+## 🧪 Repos de pruebas y formación
 
-<!--
-**jcarlosab/jcarlosab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **🧠 Training** — Ejercicios y pruebas de cursos (Java, Python, React)
+- **🧪 Scripts** — Ejemplos y utilidades en bash
+- **⚛️ React Experiments** — Apps pequeñas y componentes funcionales
 
-Here are some ideas to get you started:
+## 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+
+- [🔗 Portfolio (próximamente)](#)
+- [📧 Email](josecarlos.dev@outlook.es)
+- [🌍 GitHub Pages](https://jcarlosab.github.io)
