@@ -5,16 +5,17 @@ Soy Jose Carlos, desarrollador full stack con experiencia en **Magnolia CMS**, *
 ## 🚀 Proyectos principales
 
 - **🃏 Task Points App** — Herramienta de estimación de tareas (frontend + backend con WebSockets) --- en desarrollo
-- **💸 Expenses App** — Gestor de gastos personales en React
-- **🕹️ JS Games** — Juegos pequeños como Pong, Memory o Hanoi usando ECMAScript 6
+- **💸 Expenses App** — Gestor para anotar gastos personales en React (privado)  
+  [🔗 Ver demo](dev-playground/react-apps/expenses-app-demo)
 - **📦 Bartop** — Documentación de una recreativa arcade hecha a mano
-- - **🛸 Unity Game (en desarrollo)** — Proyecto de videojuego 2D estilo *galaga*
+- **🛸 Unity Game (en desarrollo)** — Proyecto de videojuego 2D estilo *galaga*
 
 ## 🧪 Repos de pruebas y formación
 
+- **🕹️ JS Games** — Juegos pequeños como Pong, Memory o Hanoi usando ECMAScript 6
 - **🧠 Training** — Ejercicios y pruebas de cursos (Java, Python, React)
 - **🧪 Scripts** — Ejemplos y utilidades en bash
-- **⚛️ React Experiments** — Apps pequeñas y componentes funcionales
+- **⚛️ React apps** — Apps pequeñas y pruebas
 
 ## 
 
