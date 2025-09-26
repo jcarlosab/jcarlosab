@@ -8,7 +8,7 @@ Soy Jose Carlos, desarrollador full stack con experiencia en **Magnolia CMS**, *
 - **Expenses App** — Gestor para anotar gastos personales en React (privado)  
   [🔗 Ver demo](https://github.com/jcarlosab/dev-playground/tree/main/react-apps/expenses-app-demo)
 - **Bartop** — Documentación de una recreativa arcade hecha a mano
-- **Unity Game (en desarrollo)** — Proyecto de videojuego 2D estilo *galaga*
+
 
 ## Repos de pruebas y formación
 
